@@ -39,10 +39,10 @@ Dedicated to continuous learning, clean code, and delivering great user experien
 
 ## 💼 Projects
 
-### 🛍️ [Trend Trove](https://trend-trove-next.vercel.app/)  
-**Tech:** Next.js, Firebase, Google OAuth  
-An e-commerce platform with product management, dynamic carts, and responsive UI.  
-[GitHub Repo](https://github.com/plamena-petkova/trend-trove-next)
+### ⚽ Atletik Sportivo FC Website  
+**Tech:** React, Tailwind CSS  
+A sleek and responsive website built for a local football club to showcase their matches, players, and news.  
+[GitHub Repo]((https://github.com/plamena-petkova/atletik-sportivo-fc))
 
 ---
 
@@ -50,6 +50,13 @@ An e-commerce platform with product management, dynamic carts, and responsive UI
 **Tech:** MERN, Socket.IO, Material UI  
 Real-time chat app with user authentication and messaging.  
 [Client](https://github.com/plamena-petkova/chatzak) | [Server](https://github.com/plamena-petkova/chatzak_server) | [Mobile (WIP)](https://github.com/plamena-petkova/Chatzak_mobile)
+
+---
+
+### 🛍️ [Trend Trove](https://trend-trove-next.vercel.app/)  
+**Tech:** Next.js, Firebase, Google OAuth  
+An e-commerce platform with product management, dynamic carts, and responsive UI.  
+[GitHub Repo](https://github.com/plamena-petkova/trend-trove-next)
 
 ---
 
@@ -67,6 +74,14 @@ Personal portfolio with timeline, certifications, and project showcase.
 - **Math & Informatics**, Math High School "Nikola Obreshkov"
 
 ---
+
+## 🎓 Udemy Courses Completed
+
+- ✅ **Next.js From Scratch 2024** – *Brad Traversy*
+- ✅ **Advanced CSS and Sass: Flexbox, Grid, Animations and More!** – *Jonas Schmedtmann*
+- ✅ **React Testing Library and Jest: The Complete Guide** – *Stephen Grider* 
+- ✅ **GitHub Actions - The Complete Guide** – *Maximilian Schwarzmüller*
+
 
 ## 💬 Languages
 
