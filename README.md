@@ -39,7 +39,7 @@ Dedicated to continuous learning, clean code, and delivering great user experien
 
 ## 💼 Projects
 
-### ⚽ Atletik Sportivo FC Website  
+### ⚽ [Atletik Sportivo FC Website](https://atletik-sportivo-fc.vercel.app)
 **Tech:** React, Tailwind CSS  
 A sleek and responsive website built for a local football club to showcase their matches, players, and news.  
 [GitHub Repo]((https://github.com/plamena-petkova/atletik-sportivo-fc))
