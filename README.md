@@ -60,10 +60,10 @@ An e-commerce platform with product management, dynamic carts, and responsive UI
 
 ---
 
-### 📁 [Portfolio App](https://portfolio-blitz.netlify.app)  
-**Tech:** React, Node.js, Express.js, MongoDB  
+### 📁 [Portfolio App](https://plamena-petkova.vercel.app)  
+**Tech:** NextJS, DaisyUI, Motion, Supabase
 Personal portfolio with timeline, certifications, and project showcase.  
-[Frontend Repo](https://github.com/plamena-petkova/Portfolio_ppetkova) | [API Repo](https://github.com/plamena-petkova/PortfolioAPI)
+[Github Repo](https://github.com/plamena-petkova/plamena-petkova-portfolio)
 
 ---
 
@@ -100,7 +100,7 @@ Empathy • Teamwork • Adaptability • Attention to Detail • Critical Think
 ## 📫 Contact Me
 
 📧 pl.petkova@gmail.com  
-🌍 [portfolio-blitz.netlify.app](https://portfolio-blitz.netlify.app)  
+🌍 [plamena-petkova.vercel.app](https://plamena-petkova.vercel.app)  
 🔗 [LinkedIn](https://www.linkedin.com/in/plamena-petkova-a1280163/)  
 🐱 [GitHub](https://github.com/plamena-petkova)
 
