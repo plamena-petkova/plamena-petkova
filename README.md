@@ -4,7 +4,7 @@
 Passionate about building engaging, user-friendly web applications with modern technologies.  
 Dedicated to continuous learning, clean code, and delivering great user experiences.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-blitz.netlify.app-blue?style=flat-square)](https://portfolio-blitz.netlify.app)
+[![Portfolio](https://img.shields.io/badge/plamena-petkova.vercel.app-blue?style=flat-square)](https://plamena-petkova.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Plamena_Petkova-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/plamena-petkova-a1280163/)
 [![GitHub](https://img.shields.io/badge/GitHub-plamena--petkova-black?style=flat-square&logo=github)](https://github.com/plamena-petkova)
 
